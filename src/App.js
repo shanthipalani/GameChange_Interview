@@ -132,7 +132,7 @@ function App() {
           )}
         </Content>
         <Modal
-          title="Basic Modal"
+          title="Add User"
           visible={isModalVisible}
           onCancel={handleCancel}
           footer={null}
